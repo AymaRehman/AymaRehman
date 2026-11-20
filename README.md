@@ -7,7 +7,7 @@ how to solve it; usually with Python, usually involving data
 
 - I learn by building something until it works
 - Most at home with Python and ML pipelines, currently exploring backend development
-- Recently built a RAG backend with FastAPI and LangChain, deployed to Kubernetes with Prometheus/Grafana monitoring and CI pipelines for LLM evaluation and cluster smoke tests, plus an ML fraud-detection service with Swedbank and a FastAPI trip-cost predictor
+- Recently built a RAG backend using FastAPI and LangChain, deployed to Kubernetes with Prometheus/Grafana monitoring and CI pipelines for LLM evaluation and cluster smoke tests. Also developed an ML fraud-detection service with Swedbank, a FastAPI-based trip cost predictor, and a live Riga public transport map for macOS using Swift and SwiftUI.
 
 **Current Tech Stack**
 
@@ -15,6 +15,7 @@ how to solve it; usually with Python, usually involving data
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -23,6 +24,7 @@ how to solve it; usually with Python, usually involving data
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat&logo=swift&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
